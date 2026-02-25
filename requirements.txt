@@ -3,4 +3,5 @@ ultralytics==8.1.0
 numpy
 pandas
 Pillow
+
 opencv-python-headless
