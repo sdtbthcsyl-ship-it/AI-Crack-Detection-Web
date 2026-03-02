@@ -1,6 +1,8 @@
-ultralytics==8.3.0
-opencv-python-headless==4.8.0.74
 streamlit
+ultralytics
+opencv-python-headless
 numpy
 pandas
 Pillow
+streamlit-webrtc
+av
